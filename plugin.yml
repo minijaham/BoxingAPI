@@ -1,0 +1,6 @@
+---
+name: Boxing
+version: 0.0.1-Untested
+main: minijaham\Boxing\Main
+api: 3.22.1
+...
