@@ -59,4 +59,9 @@ class Boxing extends PluginBase implements Listener
 			return;
 		}
 	}
+	
+	public function calculateHits(Player $first, Player $second) : int
+	{
+		return ($this->getHits($first) - $this->getHits($second));
+	}
 }
