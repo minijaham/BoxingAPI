@@ -1,5 +1,7 @@
 # BoxingAPI
 :shrug:
+Simple API for a boxing game, ig!
+Inspired by: https://www.youtube.com/watch?v=zUGIf27H-1M
 
 # How to use
 ```php
