@@ -2,5 +2,5 @@
 name: Boxing
 version: 0.0.1-Untested
 main: minijaham\Boxing\Boxing
-api: 3.22.1
+api: 4.0.0
 ...
