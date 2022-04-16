@@ -6,13 +6,13 @@ namespace minijaham\Boxing;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 
 class Boxing extends PluginBase implements Listener
 {
-	public array $hits = array();
+	public array $hits = [];
 	
 	public static Boxing $instance;
 	
